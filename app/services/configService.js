@@ -5,7 +5,7 @@ angular.module('gdgXBoomerang')
         'name'          : 'GDG OSU Stillwater',
         'id'            : '109062818916703314473',
         'googleApi'     : 'AIzaSyDzC9q_Z3phIm0IjPlopNsMlimAuEt4bNM',
-        'pwaId'         : '', // Picasa Web Album id, must belong to Google+ id above
+        'pwaId'         : '109062818916703314473', // Picasa Web Album id, must belong to Google+ id above
         'domain'        : '',
         'twitter'       : '',
         'facebook'      : '',
